@@ -9,6 +9,7 @@ __pycache__/
 *$py.class
 *.so
 .Python
+.python-version
 
 # Virtual environments
 .venv/
@@ -21,6 +22,7 @@ ENV/
 .idea/
 *.swp
 *.swo
+.gradio/
 
 # OS
 .DS_Store
