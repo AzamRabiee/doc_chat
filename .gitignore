@@ -1,0 +1,47 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.gradio/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+document_cache/
+*.pkl
+logs.txt
+*.log
+cookies.txt
+obiter_pkg.ipynb
+chroma_db/
+
+# Hugging Face Spaces: avoid binaries
+examples/*.pdf
+examples/*.png
+examples/*.jpg
+examples/*.jpeg
+examples/*.webp
+examples/*.mp4
+examples/*.mov
