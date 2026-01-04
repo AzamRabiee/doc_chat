@@ -65,10 +65,6 @@ httpx==0.28.1
 httpx-sse==0.4.3
 huggingface-hub==0.36.0
 humanfriendly==10.0
-ibm-cos-sdk==2.13.6
-ibm-cos-sdk-core==2.13.6
-ibm-cos-sdk-s3transfer==2.13.6
-ibm_watsonx_ai==1.2.4
 idna==3.11
 ImageIO==2.37.2
 importlib_metadata==8.7.0
