@@ -26,6 +26,5 @@ python -m pytest tests/document_processor/file_upload.py::test_files_api_info_ge
 ```
 
 ## TODO
-- git
 - huggingface spaces
 
