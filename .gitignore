@@ -38,10 +38,10 @@ obiter_pkg.ipynb
 chroma_db/
 
 # Hugging Face Spaces: avoid binaries
-examples/*.pdf
-examples/*.png
-examples/*.jpg
-examples/*.jpeg
-examples/*.webp
-examples/*.mp4
-examples/*.mov
+# examples/*.pdf
+# examples/*.png
+# examples/*.jpg
+# examples/*.jpeg
+# examples/*.webp
+# examples/*.mp4
+# examples/*.mov
